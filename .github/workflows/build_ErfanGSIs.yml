@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=432X&id=1KY9oiZcIE2_wqo-GQ4FnOhojpF8Mf_WY
-  ROM_NAME: MIUI:Masik
-  ZIP_NAME: Masik Lavender
+  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZS660KL/UL-ASUS_I001_1-CN-17.0235.2004.1-1.1.171-user.zip
+  ROM_NAME: ZenUI
+  ZIP_NAME: ROG UI 2
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
